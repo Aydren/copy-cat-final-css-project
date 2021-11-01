@@ -1,0 +1,27 @@
+figure {
+    width: 700px;
+    padding-bottom: 50px;
+}
+
+.center-a {
+    display: inline-flex;
+    justify-content: space-between;
+    padding: 0px 15px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.purple {
+    background-color: #504057;
+}
+
+div .purple > h2 {
+    padding-top: 50px;
+    color: white;
+}
+
+div .purple > h3 {
+    color: #FEC2EB;
+}
